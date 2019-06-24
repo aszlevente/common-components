@@ -1,0 +1,1 @@
+A basic footer with Back to Top, Terms of Use and Privacy button.
